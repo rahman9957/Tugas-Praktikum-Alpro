@@ -1,3 +1,4 @@
+# tugas Variable 
 # menghitung luas persegi panjang 
 # Input panjang dan lebar 
 panjang = 33
